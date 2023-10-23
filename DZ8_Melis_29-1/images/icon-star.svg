@@ -1,0 +1,36 @@
+<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="18" height="18" fill="#E5E5E5"/>
+<g id="Desktop" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="6234" transform="translate(-166 -4920)" fill="white"/>
+<g id="Frame">
+<g id="Frame_2">
+<g id="Frame_3" clip-path="url(#clip1_0_1)">
+<g id="Frame_4">
+<g id="Rectangle">
+<path d="M-30 -30C-30 -32.2091 -28.2091 -34 -26 -34H535C537.209 -34 539 -32.2091 539 -30V248C539 250.209 537.209 252 535 252H-26C-28.2091 252 -30 250.209 -30 248V-30Z" fill="white"/>
+<path d="M-29.5 -30C-29.5 -31.933 -27.933 -33.5 -26 -33.5H535C536.933 -33.5 538.5 -31.933 538.5 -30V248C538.5 249.933 536.933 251.5 535 251.5H-26C-27.933 251.5 -29.5 249.933 -29.5 248V-30Z" stroke="#52503B" stroke-opacity="0.1"/>
+</g>
+<g id="Frame_5">
+<g id="IMAGE" clip-path="url(#clip2_0_1)">
+<g id="Star-Icon">
+<path id="Path" d="M17.3445 6.48942L11.8688 5.62002L9.3881 0.279449C9.20658 -0.0931496 8.72255 -0.0931496 8.54103 0.279449L6.06034 5.65107L0.614921 6.48942C0.221641 6.55152 0.0703788 7.07937 0.372902 7.35882L4.33596 11.5505L3.39814 17.419C3.33763 17.8226 3.73091 18.1642 4.09394 17.9158L9.02507 15.1523L13.926 17.9158C14.2587 18.1021 14.6823 17.7916 14.5915 17.419L13.6537 11.5505L17.6167 7.35882C17.8588 7.07937 17.7377 6.55152 17.3445 6.48942Z" fill="#52503B"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="6234" fill="white" transform="translate(-166 -4920)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="1168" height="286" fill="white" transform="translate(-30 -34)"/>
+</clipPath>
+<clipPath id="clip2_0_1">
+<rect width="17.5377" height="18" fill="white" transform="translate(0.203796)"/>
+</clipPath>
+</defs>
+</svg>
